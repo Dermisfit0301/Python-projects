@@ -1,2 +1,2 @@
 # Python-projects
-This repository contains the machine learning projects code I did in Python. The code is in pdf format .
+This repository contains the machine learning/data science projects that has been done in Python.
