@@ -1,0 +1,1 @@
+This repository has the code files as well as the dataset for the financial factors prediction. In this assignment we are trying to predict the dependent variable MKT using independent variables. Also we checked the independent variables for multi-collinearity. 
